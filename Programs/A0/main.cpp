@@ -12,4 +12,6 @@ int main()
     }while(choice != 5);
 
     return 0;
+
+    cout << "Code ran" << endl;
 }
