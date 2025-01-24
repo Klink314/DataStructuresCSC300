@@ -10,11 +10,10 @@ int main()
     cout << "Enter choice between 1-4: ";
     cin >> choice;
 
-    do{
+    //do{
 
-        choice++;
 
-    }while(choice != 5);
+    //}while(choice != 5);
 
     cout << "Code ran" << endl;
 
