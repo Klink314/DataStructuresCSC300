@@ -1,16 +1,12 @@
-About: Array Implementation of lists - CSC 250 Review
-Date: Jan 23, 2025
-Comments: Includes three files -> array.h, array.cpp, main.cpp
+About: Link list assignment 0
+Date: Jan 30, 2025
+Comments: Includes three files -> main.cpp A0Klinkenborg.cpp A0Klinkenborg.h
 
 *** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
     In command prompt:
-        cd folder-containing-the-files
+        cd A0
         code .
 *** 
+
 To compile: g++ main.cpp array.cpp
-To run: ./a 
-
-OR
-
-To compile: g++ main.cpp array.cpp -o whatevernameyoulike
-To run: ./whatevernameyoulike
+To run: .\a.exe
