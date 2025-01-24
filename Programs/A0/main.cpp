@@ -7,6 +7,9 @@ int main()
 
     int choice, data, index;
 
+    cout << "Enter choice between 1-4: ";
+    cin >> choice;
+
     do{
 
     }while(choice != 5);
