@@ -10,3 +10,5 @@ Comments: Includes three files -> main.cpp A0Klinkenborg.cpp A0Klinkenborg.h
 
 To compile: g++ main.cpp A0Klinkenborg.cpp 
 To run: .\a.exe
+
+If you wish to run Task 3 you will have to comment out all of A0Klinkenborg.cpp and remove the comment from A0KlinkenborgTask3.cpp
