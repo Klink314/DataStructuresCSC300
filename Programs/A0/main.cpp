@@ -16,29 +16,32 @@ int main()
         cout << "4. Display List\n";
         cout << "5. Exit\n";
         cout << "Enter your choice: ";
-        cin >> choice;
+        choice = getValidNumber();
 
         switch (choice)
         {
             case 1:
-                cout << "Enter index and data to insert: ";
-                cin >> index >> data;
+                cout << "Enter the index: ";
+                index = getValidNumber();
+                cout << "Enter the data: ";
+                data = getValidNumber();
                 insertNode(head, index, data);
                 break;
 
             case 2:
-                cout << "Enter index to delete: ";
-                cin >> index;
+                cout << "Enter the index to delete: ";
+                index = getValidNumber();
                 deleteNode(head, index);
                 break;
 
             case 3:
-                cout << "Enter key to search: ";
-                cin >> data;
+                cout << "Enter the data to search: ";
+                data = getValidNumber();
                 searchNode(head, data);
                 break;
 
             case 4:
+                cout << "Displaying linked list: ";
                 displayList(head);
                 break;
 
