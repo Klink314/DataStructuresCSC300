@@ -1,0 +1,13 @@
+About: Enqueue and Deququq | Assignment 1
+Date: Feb 10, 2025
+Comments: Includes three files -> mainll.cpp sqdll.cpp sqdll.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        use "cd stack_queue_dll" if needed to get to where the code is stored
+        code .
+*** 
+
+To compile: g++ mainll.cpp sqdll.cpp 
+To run: .\a.exe
+
