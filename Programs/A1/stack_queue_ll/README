@@ -4,7 +4,7 @@ Comments: Includes three files -> mainll.cpp sqll.cpp sqll.h
 
 *** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
     In command prompt:
-        use "cd stack_queue_ll" if needed to get to where the code is stored
+        use "cd A1" then "cd stack_queue_ll" if needed to get to where the code is stored
         code .
 *** 
 
