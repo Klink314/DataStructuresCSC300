@@ -1,0 +1,13 @@
+About: BST with Arrays and Lists | Assignment 4
+Date: March 6, 2025
+Comments: Includes three files -> mainP.cpp bstP.cpp bstP.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        use "cd A4_P1" then "cd BST_P" if needed to get to where the code is stored
+        code .
+*** 
+
+To compile: g++ mainP.cpp bstP.cpp 
+To run: .\a.exe
+
