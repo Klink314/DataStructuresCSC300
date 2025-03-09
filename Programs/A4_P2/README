@@ -1,0 +1,13 @@
+About: BST Runway | Assignment 4P2
+Date: March 9, 2025
+Comments: Includes three files -> mainR.cpp reserve.cpp reserve.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        use "cd A4_P2" then "cd runway" if needed to get to where the code is stored
+        code .
+*** 
+
+To compile: g++ mainR.cpp reserve.cpp 
+To run: .\a.exe
+
