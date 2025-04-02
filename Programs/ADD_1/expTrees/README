@@ -1,0 +1,13 @@
+About: expTrees additional assignment 1
+Date: Apr 01, 2025
+Comments: Includes three files -> main.cpp parse.cpp parse.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        use "cd ADD_1" if needed to get to where the code is stored
+        code .
+        use "cd expTrees"
+*** 
+
+To compile: g++ mainP.cpp parse.cpp 
+To run: .\a.exe
