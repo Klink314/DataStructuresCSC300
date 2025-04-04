@@ -1,0 +1,13 @@
+About: heap tasks Assignment 5
+Date: Apr 04, 2025
+Comments: Includes three files -> mainH.cpp heap.cpp heap.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        use "cd A5" if needed to get to where the code is stored
+        code .
+        use "cd Heap"
+*** 
+
+To compile: g++ mainH.cpp heap.cpp 
+To run: .\a.exe inst.txt
