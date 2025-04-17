@@ -1,0 +1,13 @@
+About: Graphs Assignment 6
+Date: Apr 17, 2025
+Comments: Includes five files -> mainGraph.cpp graph.cpp graph.h sqll.cpp sqll.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        use "cd A6_P1" if needed to get to where the code is stored
+        code .
+        use "cd graph"
+*** 
+
+To compile: g++ mainGraph.cpp graph.cpp sqll.cpp
+To run: .\a.exe 
