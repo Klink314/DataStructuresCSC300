@@ -1,0 +1,11 @@
+About: Final Project
+Date: Apr 25, 2025
+Comments: Includes three files -> mainMaze.cpp maze.cpp maze.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        use "cd Maze" if needed to get to where the code is stored.
+*** 
+
+To compile: g++ mainMaze.cpp maze.cpp 
+To run: .\a.exe
